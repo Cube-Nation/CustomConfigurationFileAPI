@@ -1,0 +1,5 @@
+author: d1rty
+description: CustomConfigurationFileAPI (dirty Version)
+main: org.lichtspiele.CustomConfigurationFileAPI.CustomConfigurationFileAPIPlugin
+name: CustomConfigurationFileAPI
+version: '1.0'
